@@ -1,0 +1,58 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Git files
+.git/
+.gitignore
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Testing and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter notebooks and temporary files
+.ipynb_checkpoints/
+*.ipynb
+notebook/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
