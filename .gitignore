@@ -9,3 +9,6 @@ __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
 data/SFinDSet.csv
+
+# Large Jupyter notebook
+notebook/Sdf_.ipynb
